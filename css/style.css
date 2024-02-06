@@ -1220,7 +1220,7 @@ text-decoration: underline;
     .header-content {
         background-image: url("../images/banner-mobile.jpg");
         background-size: cover;
-        background-position: right bottom -10px;
+        background-position: center;
     }
 
     .header-title-container {
